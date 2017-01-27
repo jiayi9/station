@@ -1,6 +1,6 @@
 # station
 
-A testing-station monitoring Dashboard with upstream & downstream tracing, automatic correlation detection and flexible charting ability.
+A testing-station monitoring Dashboard with *upstream & downstream tracing, automatic correlation detection* and flexible charting ability.
 
 Disclaimer: All data used in this demo are simulated fake data.
 
